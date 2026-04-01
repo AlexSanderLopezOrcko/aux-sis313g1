@@ -8,10 +8,10 @@ Bienvenido/a al repositorio de la auxiliatura de la materia **SIS-313**.
 
 # HORARIO DE CLASES
 
-|   DÍA   |     HORA      |
-| :-----: | :-----------: |
-| MARTES  | 14:15 - 16:00 |
-| VIERNES | 14:15 - 16:00 |
+|  DÍA   |     HORA      |
+| :----: | :-----------: |
+| MARTES | 14:15 - 16:00 |
+| SABADO | 08:15 - 10:00 |
 
 # PONDERACION DE PUNTOS
 
