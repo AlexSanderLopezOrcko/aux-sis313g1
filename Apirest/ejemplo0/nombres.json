@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "alex",
+    "apellido": "lopez",
+    "ci": "1234567"
+  },
+  {
+    "nombre": "María",
+    "apellido": "Gonzales",
+    "ci": "7654321"
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "López",
+    "ci": "9876543"
+  }
+]

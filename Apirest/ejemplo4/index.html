@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asignaturas</title>
+    <script defer src="./script.js"></script>
+  </head>
+
+  <body>
+    <h2>Tabla de Asignaturas</h2>
+
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Materia</th>
+          <th>Sigla</th>
+          <th>Semestre</th>
+        </tr>
+      </thead>
+      <tbody id="tabla"></tbody>
+    </table>
+
+    <button id="btncrear">crear</button>
+    <div id="ventanaCrear" hidden>
+      <h3>crear nueva Asignatura</h3>
+      <input type="text" id="materia" placeholder="introducir materia" />
+      <br />
+      <input type="text" id="sigla" placeholder="introducir sigla" />
+      <br />
+      <input type="text" id="semestre" placeholder="introducir semestre" />
+      <br />
+      <button id="guardarCrear">guardar</button>
+    </div>
+    <button id="btneditar">editar</button>
+    <div id="ventanaEditar" hidden>
+      <h3>editar Asignatura</h3>
+      <input type="text" id="materiaEditar" placeholder="introducir materia" />
+      <br />
+      <input type="text" id="siglaEditar" placeholder="introducir sigla" />
+      <br />
+      <input type="text" id="semestreEditar" placeholder="introducir semestre" />
+      <br />
+      <button id="guardarEditar">guardar</button>
+    </div>
+    <button id="btneliminar">eliminar</button>
+    <div id="ventanaEliminar" hidden>
+      <h3>se elimino correctamente</h3>
+      <button>salir</button>
+    </div>
+  </body>
+</html>
