@@ -1,63 +1,61 @@
 # LISTA DE PRÁCTICAS REVISADAS Y SUS CALIFICACIONES
 
-|  N  |       NOMBRES       |      APELLIDOS      |   C.I.   |  R.U.  | P 1 | P 2 | P 3 |
-| :-: | :-----------------: | :-----------------: | :------: | :----: | :-: | :-: | :-: |
-|  1  |       ABIGAIL       |    ALVAREZ PUITA    | 8639425  | 126484 | 51  |  0  | 100 |
-|  2  |      ALEJANDRO      |  CARBAJAL AVENDAÑO  | 13870863 | 125347 | 90  |  0  |  0  |
-|  3  | ALEXANDER CRISTIAN  |    OQUENDO RUIZ     | 13918130 | 114055 |  0  |  0  |  0  |
-|  4  | ALEXANDER FABRICIO  |  GUTIERREZ JULIAN   | 13038860 | 97197  |  0  |  0  |  0  |
-|  5  |     ANDER DHERY     |   VARGAS MARTINEZ   | 13230631 | 126500 | 100 |  0  |  0  |
-|  6  |   ANELISSE SALOME   | VACAFLORES ALIZARES | 12527247 | 124960 | 100 | 60  |  0  |
-|  7  |    ARIANA RAQUEL    |  PADILLA TERRAZAS   | 12375435 | 125259 | 70  |  0  |  0  |
-|  8  |    ARIEL RAFAEL     |  MACHACA CABALLERO  | 14164133 | 79622  |  0  |  0  |  0  |
-|  9  |     BRYAN YAMIL     |    ORTEGA VARGAS    | 13229316 | 125385 | 95  | 100 |  0  |
-| 10  |       CARLOS        |      MARTINEZ       | 14399863 | 119064 |  0  |  0  |  0  |
-| 11  |  CRISTIAN REYNALDO  |     ROJAS CORO      | 10476481 | 91199  | 55  |  0  |  0  |
-| 12  |  CRISTIAN REYNALDO  |     VEDIA CORO      | 15334929 | 115265 |  0  | 35  |  0  |
-| 13  |      CRISTOFER      |   ARIAS CALIZAYA    | 10531729 | 117980 | 100 | 100 | 56  |
-| 14  |   DANNA JHENNIFER   |   MACHACA FLORES    | 10551736 | 121184 | 53  |  0  |  0  |
-| 15  |       DARIEN        |     LUGO RAMOS      | 16644478 | 113807 |  0  |  0  |  0  |
-| 16  |        DIEGO        |   VARGAS FAMILIA    | 13134814 | 126747 | 85  |  0  |  0  |
-| 17  |   ERICK VLADIMIR    |   GUTIERREZ MARCA   | 8545101  | 110966 | 58  | 95  | 48  |
-| 18  |   ESTHER ABIGAIL    |   CORONADO CKACKA   | 10550361 | 119660 |  0  |  0  |  0  |
-| 19  |   FRANCINE BELEN    |     LUNA TUFIÑO     | 13923385 | 126832 | 73  | 90  |  0  |
-| 20  |   GLENDA GABRIELA   |    MARCA MENDEZ     | 12654726 | 125566 | 50  |  0  |  0  |
-| 21  |    GRECIA CORALI    |  BOHÓRQUEZ CONDORI  | 14865144 | 126175 |  0  |  0  |  0  |
-| 22  |    HUGO DRAXLER     |    BASILIO COPA     | 12749378 | 108640 |  0  |  0  |  0  |
-| 23  |     JAIME JOSUE     | GARDEAZABAL CKACKA  | 10558334 | 112672 |  0  |  0  |  0  |
-| 24  |    JESUS GUSTAVO    |    QUISPE QUISPE    | 12973583 | 91704  | 80  | 85  | 100 |
-| 25  |    JESÚS ANTONIO    |   VILAMANI CARLOS   | 10560618 | 119428 | 95  |  0  | 90  |
-| 26  |      JHASMANI       |  CALIZAYA CONDORI   | 12813433 | 125037 | 100 | 80  | 90  |
-| 27  |   JHEREMY IMANOL    |   GUILLEN VASQUEZ   | 10460090 | 103317 |  0  |  0  |  0  |
-| 28  |    JOSE FERNANDO    |     ORCKO CRUZ      | 12655150 | 115640 |  0  |  0  |  0  |
-| 29  |      JOSE SAUL      |    ZEGARRA YUCRA    | 10477842 | 112657 |  0  |  0  |  0  |
-| 30  |        JUAN         |  CONTRERAS MERIDA   | 9308675  | 109376 |  0  |  0  |  0  |
-| 31  |     JUAN CARLOS     |    CONDORI YUCRA    | 12845918 | 115886 |  0  |  0  |  0  |
-| 32  |     JUAN ISRAEL     |    MIRANDA CONDO    | 10545442 | 120228 |  0  |  0  |  0  |
-| 33  |     JUAN JESUS      |     FLORES ARI      | 13897809 | 125246 | 70  | 70  | 79  |
-| 34  |        KEVIN        |    ESTRADA LOPEZ    | 8618411  | 124975 |  0  | 75  |  0  |
-| 35  |    KEVIN ALBERT     |     PINTO RAMOS     | 13103381 | 121914 |  0  |  0  |  0  |
-| 36  |   KEVIN FABRICIO    |    ROMERO QUISPE    | 14025329 | 126190 | 100 | 100 | 100 |
-| 37  |   KILIAN CLAUDIO    |     MAMANI CALA     | 12813707 | 125364 | 70  |  0  |  0  |
-| 38  |    LUIS FERNANDO    |    GARCIA FLORES    | 13039280 | 125890 | 100 |  0  |  0  |
-| 39  |    LUIS GRABIEL     |   CALLAPA JANCKO    | 10508947 | 120687 |  0  |  0  |  0  |
-| 40  |     MARÍA JOSÉ      |    FLORES QUISPE    | 13898419 | 121570 | 100 | 60  |  0  |
-| 41  |        MAYRA        |  QUISPE CALLAPINO   | 6652240  | 114820 |  0  |  0  |  0  |
-| 42  | NATALIE SURI JIMENA |    AGUILAR RUIZ     | 12557398 | 125568 | 93  | 50  | 67  |
-| 43  |       NELSON        |   BONIFACIO VERA    | 10545704 | 108782 |  0  |  0  |  0  |
-| 44  |       ORLANDO       |   CALANI MENACHO    | 10477071 | 111212 |  0  |  0  |  0  |
-| 45  |    RAYMOD ISMAEL    |   AGUIRRE LAZCANO   | 8536945  | 62153  |  0  |  0  |  0  |
-| 46  |   ROBERTO MICHAEL   |   QUINTANA ROJAS    | 14023593 | 107551 |  0  |  0  |  0  |
-| 47  |       RODRIGO       |  ESTRADA MARTÍNEZ   | 12346942 | 121559 | 100 | 90  |  0  |
-| 48  |   RODRIGO MANUEL    |   CONDEX MARQUEZ    | 15302738 | 107560 |  0  |  0  |  0  |
-| 49  |   RULYANA BIANETH   |  ARRIOLA MAMANILLO  | 14119816 | 120994 | 100 |  0  |  0  |
-| 50  |     SILVIA ROSA     |  ALVARADO ALVARADO  | 6700327  | 125378 |  0  |  0  |  0  |
-| 51  |    SOFIA JANETH     |     CALLA CRUZ      | 10539686 | 127565 | 70  |  0  |  0  |
-| 52  |    VICTOR DANIEL    |  FERNANDEZ SOLANO   | 8523400  | 115643 |  0  |  0  |  0  |
-| 53  |        VILMA        |    CUPARA SOLIZ     | 10581685 | 119155 | 55  |  0  |  0  |
-| 54  |    VIVIAN NERIDA    |   ORDOÑEZ CHAMBI    | 8614971  | 125770 | 50  | 35  |  0  |
-| 55  |       VIVIANA       |    CORO ARICOMA     | 8544987  | 79772  | 75  |  0  |  0  |
-| 56  |       WILIAN        |   BELTRAN CENTENO   | 7516632  | 113848 | 70  | 80  | 92  |
-| 57  |   WILLANS RODRIGO   |    ESCOBAR VEDIA    | 6642575  | 93017  |  0  |  0  |  0  |
-| 58  |   WILLIAM ANDREW    |    CHAMBI MEDINA    | 9334991  | 126044 |  0  |  0  |  0  |
-| 59  |   YADHIR ABRAHAM    |    YUCRA QUISPE     | 14501868 | 119343 |  0  |  0  |  0  |
+| Nro. | C.I. | R.U. | Paterno | Materno | Nombres | P1 | P2 | P3 | P4 | P5 | P6 | NOTA (7%) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 14399863 | 119064 |  | MARTINEZ | CARLOS | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 12557398 | 125568 | AGUILAR | RUIZ | NATALIE SURI JIMENA | 93 | 50 | 67 | 70 | 70 | 100 | 5,25 |
+| 8536945 | 62153 | AGUIRRE | LAZCANO | RAYMOD ISMAEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 6700327 | 125378 | ALVARADO | ALVARADO | SILVIA ROSA | 20 | 50 | 0 | 90 | 0 | 70 | 2,68 |
+| 8639425 | 126484 | ALVAREZ | PUITA | ABIGAIL | 51 | 50 | 100 | 0 | 20 | 0 | 2,58 |
+| 10531729 | 117980 | ARIAS | CALIZAYA | CRISTOFER | 100 | 100 | 56 | 90 | 0 | 70 | 4,85 |
+| 14119816 | 120994 | ARRIOLA | MAMANILLO | RULYANA BIANETH | 100 | 70 | 50 | 0 | 0 | 100 | 3,73 |
+| 12749378 | 108640 | BASILIO | COPA | HUGO DRAXLER | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 7516632 | 113848 | BELTRAN | CENTENO | WILIAN | 70 | 100 | 92 | 100 | 100 | 100 | 6,56 |
+| 10545704 | 108782 | BONIFACIO | VERA | NELSON | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 10477071 | 111212 | CALANI | MENACHO | ORLANDO | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 12813433 | 125037 | CALIZAYA | CONDORI | JHASMANI | 100 | 100 | 100 | 100 | 100 | 100 | 7,00 |
+| 10539686 | 127565 | CALLA | CRUZ | SOFIA JANETH | 70 | 70 | 50 | 0 | 100 | 0 | 3,38 |
+| 10508947 | 120687 | CALLAPA | JANCKO | LUIS GRABIEL | 20 | 50 | 0 | 0 | 0 | 0 | 0,82 |
+| 13870863 | 125347 | CARBAJAL | AVENDAÑO | ALEJANDRO | 90 | 70 | 0 | 0 | 0 | 0 | 1,87 |
+| 9334991 | 126044 | CHAMBI | MEDINA | WILLIAM ANDREW | 50 |  | 0 | 0 | 0 | 0 | 0,70 |
+| 12845918 | 115886 | CONDORI | YUCRA | JUAN CARLOS | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 9308675 | 109376 | CONTRERAS | MERIDA | JUAN | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 8544987 | 79772 | CORO | ARICOMA | VIVIANA | 75 | 50 | 0 | 0 | 0 | 0 | 1,46 |
+| 10550361 | 119660 | CORONADO | CKACKA | ESTHER ABIGAIL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 10581685 | 119155 | CUPARA | SOLIZ | VILMA | 55 | 50 | 60 | 90 | 0 | 100 | 4,14 |
+| 6642575 | 93017 | ESCOBAR | VEDIA | WILLANS RODRIGO | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 8618411 | 124975 | ESTRADA | LOPEZ | KEVIN | 50 | 75 | 0 | 70 | 80 | 100 | 4,38 |
+| 12346942 | 121559 | ESTRADA | MARTÍNEZ | RODRIGO | 100 | 90 | 50 | 0 | 0 | 0 | 2,80 |
+| 8523400 | 115643 | FERNANDEZ | SOLANO | VICTOR DANIEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 13897809 | 125246 | FLORES | ARI | JUAN JESUS | 100 | 90 | 79 | 100 | 100 | 100 | 6,64 |
+| 13898419 | 121570 | FLORES | QUISPE | MARÍA JOSÉ | 100 | 60 | 50 | 0 | 0 | 0 | 2,45 |
+| 13039280 | 125890 | GARCIA | FLORES | LUIS FERNANDO | 100 | 70 | 40 | 50 | 0 | 0 | 3,03 |
+| 10558334 | 112672 | GARDEAZABAL | CKACKA | JAIME JOSUE | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 10460090 | 103317 | GUILLEN | VASQUEZ | JHEREMY IMANOL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 13038860 | 97197 | GUTIERREZ | JULIAN | ALEXANDER FABRICIO | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 8545101 | 110966 | GUTIERREZ | MARCA | ERICK VLADIMIR | 78 | 95 | 98 | 100 | 88 | 100 | 6,52 |
+| 14715817 | 109171 | LAIME | MIRANDA | HASSER YERKOV | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 16644478 | 113807 | LUGO | RAMOS | DARIEN | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 13923385 | 126832 | LUNA | TUFIÑO | FRANCINE BELEN | 100 | 100 | 80 | 0 | 0 | 100 | 4,43 |
+| 14164133 | 79622 | MACHACA | CABALLERO | ARIEL RAFAEL | 20 | 50 | 0 | 0 | 0 | 0 | 0,82 |
+| 10551736 | 121184 | MACHACA | FLORES | DANNA JHENNIFER | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 12813707 | 125364 | MAMANI | CALA | KILIAN CLAUDIO | 70 | 70 | 70 | 0 | 0 | 0 | 2,45 |
+| 12654726 | 125566 | MARCA | MENDEZ | GLENDA GABRIELA | 100 | 30 | 50 | 0 | 0 | 0 | 2,10 |
+| 10545442 | 120228 | MIRANDA | CONDO | JUAN ISRAEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 12655150 | 115640 | ORCKO | CRUZ | JOSE FERNANDO | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 8614971 | 125770 | ORDOÑEZ | CHAMBI | VIVIAN NERIDA | 100 | 35 | 0 | 70 | 80 | 70 | 4,14 |
+| 13229316 | 125385 | ORTEGA | VARGAS | BRYAN YAMIL | 95 | 100 | 0 | 0 | 0 | 100 | 3,44 |
+| 12375435 | 125259 | PADILLA | TERRAZAS | ARIANA RAQUEL | 80 | 50 | 20 | 0 | 0 | 70 | 2,57 |
+| 10544729 | 115657 | PALACIOS | ARIZANA | JOSE GABRIEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 13103381 | 121914 | PINTO | RAMOS | KEVIN ALBERT | 90 | 70 | 0 | 0 | 0 | 0 | 1,87 |
+| 14023593 | 107551 | QUINTANA | ROJAS | ROBERTO MICHAEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 6652240 | 114820 | QUISPE | CALLAPINO | MAYRA | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
+| 12973583 | 91704 | QUISPE | QUISPE | JESUS GUSTAVO | 100 | 100 | 100 | 100 | 40 | 0 | 5,13 |
+| 10476481 | 91199 | ROJAS | CORO | CRISTIAN REYNALDO | 100 | 0 | 0 | 20 | 0 | 0 | 1,40 |
+| 14025329 | 126190 | ROMERO | QUISPE | KEVIN FABRICIO | 100 | 100 | 100 | 100 | 100 | 100 | 7,00 |
+| 12527247 | 124960 | VACAFLORES | ALIZARES | ANELISSE SALOME | 100 | 100 | 0 | 80 | 100 | 100 | 5,60 |
+| 13230631 | 126500 | VARGAS | MARTINEZ | ANDER DHERY | 100 | 50 | 0 | 0 | 0 | 0 | 1,75 |
+| 13134814 | 126747 | VARGAS | FAMILIA | DIEGO | 100 | 0 | 100 | 100 | 100 | 100 | 5,83 |
+| 15334929 | 115265 | VEDIA | CORO | CRISTIAN REYNALDO | 50 | 35 | 50 | 0 | 0 | 0 | 1,58 |
+| 10560618 | 119428 | VILAMANI | CARLOS | JESÚS ANTONIO | 95 | 90 | 90 | 100 | 100 | 100 | 6,71 |
+| 14501868 | 119343 | YUCRA | QUISPE | YADHIR ABRAHAM | 70 | 0 | 0 | 0 | 0 | 0 | 0,82 |

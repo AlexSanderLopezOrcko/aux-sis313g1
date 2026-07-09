@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Práctica N2</title>
+
+<style>
+body{
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+td{
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.center{
+    text-align: center;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 18px;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+</style>
+
+</head>
+<body>
+
+<table>
+
+<tr>
+    <td rowspan="2">
+        <img src="logo1.png" width="80">
+    </td>
+
+    <td colspan="4" class="center title">
+        UNIVERSIDAD AUTÓNOMA "TOMÁS FRÍAS"<br>
+        INGENIERÍA DE SISTEMAS
+    </td>
+
+    <td rowspan="2">
+        <img src="logo2.jpg" width="80">
+    </td>
+</tr>
+<tr></tr>
+
+
+<tr>
+    <td>ESTUDIANTE:</td>
+    <td colspan="5"></td>
+</tr>
+
+<tr>
+    <td>DOCENTE:</td>
+    <td>Ing. Choque Matos Javier</td>
+    <td>MATERIA:</td>
+    <td>SIS-313 G1</td>
+    <td colspan="2" class="center">PRÁCTICA N. 2</td>
+</tr>
+
+
+<tr>
+    <td>AUXILIAR:</td>
+    <td>Univ. Alex Sander Lopez Orcko</td>
+    <td>FECHA:</td>
+    <td>29/03/2026</td>
+    <td colspan="2"></td>
+</tr>
+
+<tr>
+    <td colspan="6" class="center title">
+        PRÁCTICA N2 - GIT, GITHUB Y HTML
+    </td>
+</tr>
+
+</table>
+<tr>
+    <td colspan="6">
+
+        <b>1. ¿Qué es una rama (branch) en Git y para qué sirve?</b><br>
+        <p>Una rama en Git es una línea de desarrollo independiente dentro de un proyecto. Sirve para trabajar en nuevas funcionalidades o cambios sin afectar la rama principal, permitiendo probar y desarrollar de forma segura.</p>
+
+        <b>2. ¿Cómo se crea y se cambia entre ramas en Git?</b><br>
+        <p>Para crear una rama se usa el comando <b>git branch nombre_rama</b>. Para cambiar a esa rama se utiliza <b>git checkout nombre_rama</b>. También se puede usar <b>git checkout -b nombre_rama</b> para crear y cambiar en un solo paso.</p>
+
+        <b>3. ¿Cuál es la diferencia entre la rama main y otras ramas?</b><br>
+        <p>La rama main es la rama principal del proyecto donde se encuentra la versión estable del código. Las otras ramas se utilizan para desarrollar nuevas funcionalidades o hacer pruebas sin afectar directamente el código principal.</p>
+
+        <b>4. ¿Cómo se combinan ramas en Git (merge)?</b><br>
+        <p>Las ramas se combinan utilizando el comando <b>git merge nombre_rama</b>. Esto permite unir los cambios de una rama a otra, generalmente integrando el trabajo realizado en una rama secundaria a la rama principal.</p>
+
+        <b>5. ¿Qué problemas pueden ocurrir al trabajar con ramas (conflictos) y cómo se resuelven?</b><br>
+        <p>Los conflictos ocurren cuando dos ramas modifican la misma parte del código. Para resolverlos, se deben revisar los archivos en conflicto, elegir qué cambios conservar o combinarlos manualmente, y luego guardar y confirmar los cambios con git add y git commit.</p>
+        
+<b>MI HORARIO</b><br>
+
+<p>horario de la gestion 2026 </p>
+
+<a href="horario_materias.html">Horario de materias</a><br><br>
+
+<a href="horario_auxiliatura.html">Horario de auxiliatura</a>
+
+    </td>
+</tr>
+
+</body>
+</html>

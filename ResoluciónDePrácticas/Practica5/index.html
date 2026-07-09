@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Práctica 5</title>
+</head>
+<body>
+
+    <h1>PRACTICA 5</h1>
+
+    <h2>Preguntas Teóricas</h2>
+
+    <h3>1) Formas de conectar HTML con JavaScript</h3>
+
+    <p>
+        Existen dos formas principales de conectar un archivo HTML con JavaScript:
+    </p>
+
+    <h4>a) JavaScript interno</h4>
+
+    <p>
+        Consiste en escribir el código JavaScript directamente dentro del archivo
+        HTML utilizando la etiqueta script.
+    </p>
+
+    <p>Ejemplo:</p>
+
+<pre>
+&lt;script&gt;
+    console.log("Hola mundo");
+&lt;/script&gt;
+</pre>
+
+    <h4>b) JavaScript externo</h4>
+
+    <p>
+        Consiste en crear un archivo separado con extensión .js y enlazarlo
+        al archivo HTML utilizando la etiqueta script con el atributo src.
+    </p>
+
+    <p>Ejemplo:</p>
+
+<pre>
+&lt;script src="script.js"&gt;&lt;/script&gt;
+</pre>
+
+    <p>
+        Esta forma es la más recomendada porque permite organizar mejor el código.
+    </p>
+
+    <hr>
+
+    <h3>2) Cómo visualizar resultados de JavaScript en la consola</h3>
+
+    <p>Pasos:</p>
+
+    <ol>
+        <li>Abrir el archivo HTML en el navegador.</li>
+        <li>Presionar la tecla F12 o hacer clic derecho e ir a "Inspeccionar".</li>
+        <li>Ir a la pestaña llamada "Consola" o "Console".</li>
+        <li>Ejecutar código JavaScript utilizando console.log().</li>
+        <li>Los resultados aparecerán en la consola del navegador.</li>
+    </ol>
+
+    <p>Ejemplo:</p>
+
+<pre>
+console.log("Hola desde JavaScript");
+</pre>
+
+    <hr>
+
+    <h3>3) Variables en JavaScript</h3>
+
+    <p>
+        Las variables son espacios en memoria que permiten almacenar información.
+    </p>
+
+    <h4>var</h4>
+
+    <p>
+        Fue la forma original de declarar variables en JavaScript.
+        Actualmente ya no se recomienda utilizar porque puede generar problemas
+        de alcance y redeclaración.
+    </p>
+
+<pre>
+var nombre = "Juan";
+console.log(nombre);
+</pre>
+
+    <h4>let</h4>
+
+    <p>
+        Permite declarar variables que pueden cambiar su valor.
+    </p>
+
+<pre>
+let edad = 20;
+edad = 21;
+console.log(edad);
+</pre>
+
+    <h4>const</h4>
+
+    <p>
+        Se utiliza para declarar variables constantes cuyo valor no cambiará.
+    </p>
+
+<pre>
+const pais = "Bolivia";
+console.log(pais);
+</pre>
+
+    <p>
+        Actualmente se recomienda utilizar let y const en lugar de var,
+        porque ofrecen mayor seguridad y mejor control del alcance de las variables.
+    </p>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
