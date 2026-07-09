@@ -1,7 +1,7 @@
 # LISTA DE PRÁCTICAS REVISADAS Y SUS CALIFICACIONES
 
-| Nro. | C.I. | R.U. | Paterno | Materno | Nombres | P1 | P2 | P3 | P4 | P5 | P6 | NOTA (7%) |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| C.I. | R.U. | Paterno | Materno | Nombres | P1 | P2 | P3 | P4 | P5 | P6 | NOTA (7%) |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | 14399863 | 119064 |  | MARTINEZ | CARLOS | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
 | 12557398 | 125568 | AGUILAR | RUIZ | NATALIE SURI JIMENA | 93 | 50 | 67 | 70 | 70 | 100 | 5,25 |
 | 8536945 | 62153 | AGUIRRE | LAZCANO | RAYMOD ISMAEL | 50 | 0 | 0 | 0 | 0 | 0 | 0,58 |
